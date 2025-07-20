@@ -14,6 +14,50 @@
       "note": ""
     },
     {
+      "tag": "None",
+      "name": "ForceAttack",
+      "position": {
+        "X": 184.60454,
+        "Y": 31.87747,
+        "Z": -126.632324
+      },
+      "arguments": [],
+      "note": ""
+    },
+    {
+      "tag": "None",
+      "name": "ForceAttack",
+      "position": {
+        "X": 164.62549,
+        "Y": 30.233988,
+        "Z": -124.51973
+      },
+      "arguments": [],
+      "note": ""
+    },
+    {
+      "tag": "None",
+      "name": "ForceAttack",
+      "position": {
+        "X": 154.55446,
+        "Y": 28.716599,
+        "Z": -76.66197
+      },
+      "arguments": [],
+      "note": ""
+    },
+    {
+      "tag": "None",
+      "name": "ForceAttack",
+      "position": {
+        "X": 125.57769,
+        "Y": 28.230022,
+        "Z": -95.5607
+      },
+      "arguments": [],
+      "note": ""
+    },
+    {
       "tag": "Treasure",
       "name": "TreasureCoffer",
       "position": {
@@ -24,6 +68,28 @@
       "arguments": [
         ""
       ],
+      "note": ""
+    },
+    {
+      "tag": "None",
+      "name": "ForceAttack",
+      "position": {
+        "X": 125.803955,
+        "Y": 28.610304,
+        "Z": -56.612453
+      },
+      "arguments": [],
+      "note": ""
+    },
+    {
+      "tag": "None",
+      "name": "ForceAttack",
+      "position": {
+        "X": 101.10669,
+        "Y": 27.163527,
+        "Z": -66.53217
+      },
+      "arguments": [],
       "note": ""
     },
     {
@@ -244,6 +310,10 @@
       {
         "version": 189,
         "change": "Adjusted tags to string values"
+      },
+      {
+        "version": 226,
+        "change": "Improved pathing in area before first boss."
       }
     ],
     "notes": []
